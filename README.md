@@ -15,9 +15,9 @@ _Full Stack developer_
 * *CSS*
 * *Dart*
 * *Javascript*
-* *Javas*
+* *Java*
 * *C*
-* *c++*
+* *C++*
 * *SQL*
 
 ## Platforms 🛠️
