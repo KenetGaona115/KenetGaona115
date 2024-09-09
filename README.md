@@ -19,16 +19,15 @@ _Full Stack developer_
 * *C*
 * *C++*
 * *SQL*
+* *React Native*
+* *.Net*
 
 ## Platforms 🛠️
 * *Firebase 🔥*
 * *MongoDB Atlas*
 * *AWS*
 * *Heroku*
-
-## I’m currently learning 🚀
-* *React*
-* *Kotlin*
+* *GCP*
 
 ## How to reach me 📫
 * Thank you for reading my full profile. 🤓
