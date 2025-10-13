@@ -21,6 +21,7 @@ _Full Stack developer_
 * *SQL*
 * *React Native*
 * *.Net*
+* *React next*
 
 ## Platforms 🛠️
 * *Firebase 🔥*
